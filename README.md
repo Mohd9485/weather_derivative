@@ -62,7 +62,7 @@ Model parameters are calibrated by least squares fitting of daily temperature in
 
 ### 2.4 Sensitivity and Risk Analysis
 The notebook explores:
-- Sensitivity of derivative price to **strike** $K$, **volatility** \(\sigma\), and **mean reversion** $\kappa$.
+- Sensitivity of derivative price to **strike** $K$, **volatility** $\sigma$, and **mean reversion** $\kappa$.
 - Empirical **distribution of payoffs**, **expected payout variance**, and **hedging implications** for energy utilities.
 
 ---
