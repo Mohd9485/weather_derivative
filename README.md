@@ -48,9 +48,9 @@ dT_t = \kappa(\theta_t - T_t)\,dt + \sigma_t\,dW_t,
 $$
 
 where  
-- \(\kappa\) controls the rate of mean reversion,  
-- \(\theta_t\) encodes deterministic seasonal trends, and  
-- \(\sigma_t\) captures stochastic fluctuations.
+- $\kappa$ controls the rate of mean reversion,  
+- $\theta_t$ encodes deterministic seasonal trends, and  
+- $\sigma_t$ captures stochastic fluctuations.
 
 Model parameters are calibrated by least squares fitting of daily temperature increments to OU residuals.
 
