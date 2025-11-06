@@ -90,3 +90,11 @@ Representative plots include:
 | **Pricing Technique** | Monte Carlo simulation under seasonal OU dynamics |
 | **Random Seed** | Fixed for reproducibility |
 | **Notebook** | `Weather_derivative_final_code.ipynb` |
+
+---
+
+## References
+
+- Hooda, Soumil, Shubham Sharma, and Kunal Bansal. "Quantifying Seasonal Weather Risk in Indian Markets: Stochastic Model for Risk-Averse State-Specific Temperature Derivative Pricing." arXiv preprint arXiv:2409.04541 (2024).
+- Richards, Timothy J., Mark R. Manfredo, and Dwight R. Sanders. "Pricing weather derivatives." American Journal of Agricultural Economics 86, no. 4 (2004): 1005-1017.
+- Considine, Geoffrey. "Introduction to weather derivatives." Weather derivatives group, Aquila energy (2000): 1-10.
