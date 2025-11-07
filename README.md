@@ -37,7 +37,7 @@ where $r$ is the risk-free rate, $T$ the time to maturity, $K$ the strike, and t
 
 ### 2.1 Data Preprocessing
 - **Data Source:** NOAA Climate Data Online (CDO) API or local CSV fallback.  
-- **Station:** Seattle–Tacoma International Airport (example).  
+- **Station:** Seattle–Tacoma International Airport Station ID = "GHCND:USW00024233",  (example).
 - **Schema Normalization:** Each daily record contains columns `TMIN`, `TMAX`, and `TAVG` (in °C). Missing observations are imputed via linear interpolation.
 
 ### 2.2 Temperature Modeling
